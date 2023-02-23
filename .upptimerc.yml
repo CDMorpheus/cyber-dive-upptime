@@ -7,6 +7,10 @@ sites:
     url: https://www.cyberdive.co
   - name: App Login
     url: https://app.cyberdive.co
+  - name: Landing Page 1
+    url: https://parenting.cyberdive.co/revolutionary
+  - name: Landing Page 2
+    url: https://parent.cyberdive.co/mental-Health-check
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
