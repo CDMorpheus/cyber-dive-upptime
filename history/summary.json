@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cyberdive.co.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 234,
-    "timeDay": 91,
-    "timeWeek": 193,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 233,
+    "timeDay": 119,
+    "timeWeek": 190,
     "timeMonth": 249,
-    "timeYear": 234,
-    "dailyMinutesDown": {
-      "2023-05-03": 6
-    }
+    "timeYear": 233,
+    "dailyMinutesDown": {}
   },
   {
     "name": "App Login",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 245,
-    "timeWeek": 330,
-    "timeMonth": 309,
-    "timeYear": 301,
+    "time": 300,
+    "timeDay": 248,
+    "timeWeek": 318,
+    "timeMonth": 307,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 74,
-    "timeWeek": 138,
-    "timeMonth": 199,
-    "timeYear": 281,
+    "time": 279,
+    "timeDay": 115,
+    "timeWeek": 139,
+    "timeMonth": 197,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 845,
-    "timeWeek": 1228,
-    "timeMonth": 1107,
-    "timeYear": 987,
+    "time": 988,
+    "timeDay": 1003,
+    "timeWeek": 1197,
+    "timeMonth": 1112,
+    "timeYear": 988,
     "dailyMinutesDown": {}
   }
 ]
