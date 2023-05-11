@@ -58,17 +58,19 @@
     "url": "https://parent.cyberdive.co/mental-Health-check",
     "icon": "https://icons.duckduckgo.com/ip3/parent.cyberdive.co.ico",
     "slug": "landing-page-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 974,
-    "timeDay": 831,
-    "timeWeek": 831,
-    "timeMonth": 1083,
-    "timeYear": 974,
-    "dailyMinutesDown": {}
+    "time": 964,
+    "timeDay": 528,
+    "timeWeek": 755,
+    "timeMonth": 1055,
+    "timeYear": 964,
+    "dailyMinutesDown": {
+      "2023-05-11": 0
+    }
   }
 ]
