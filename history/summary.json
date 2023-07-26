@@ -4,10 +4,10 @@
     "url": "https://www.cyberdive.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyberdive.co.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
@@ -15,17 +15,19 @@
     "timeWeek": 309,
     "timeMonth": 278,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 2
+    }
   },
   {
     "name": "App Login",
     "url": "https://app.cyberdive.co",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyberdive.co.ico",
     "slug": "app-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
@@ -33,17 +35,19 @@
     "timeWeek": 308,
     "timeMonth": 351,
     "timeYear": 306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "Landing Page 1",
     "url": "https://parenting.cyberdive.co/revolutionary",
     "icon": "https://icons.duckduckgo.com/ip3/parenting.cyberdive.co.ico",
     "slug": "landing-page-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
@@ -51,16 +55,18 @@
     "timeWeek": 207,
     "timeMonth": 189,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "Landing Page 2",
     "url": "https://parent.cyberdive.co/mental-Health-check",
     "icon": "https://icons.duckduckgo.com/ip3/parent.cyberdive.co.ico",
     "slug": "landing-page-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 282,
     "timeMonth": 312,
     "timeYear": 831,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   }
 ]
