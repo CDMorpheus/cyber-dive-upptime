@@ -4,19 +4,19 @@
     "url": "https://www.cyberdive.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyberdive.co.ico",
     "slug": "main-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 269,
-    "timeWeek": 309,
-    "timeMonth": 278,
+    "timeDay": 193,
+    "timeWeek": 285,
+    "timeMonth": 272,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-07-26": 2
+      "2023-07-26": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.cyberdive.co",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyberdive.co.ico",
     "slug": "app-login",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 161,
-    "timeWeek": 308,
-    "timeMonth": 351,
+    "timeDay": 202,
+    "timeWeek": 300,
+    "timeMonth": 347,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://parenting.cyberdive.co/revolutionary",
     "icon": "https://icons.duckduckgo.com/ip3/parenting.cyberdive.co.ico",
     "slug": "landing-page-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 111,
-    "timeWeek": 207,
-    "timeMonth": 189,
-    "timeYear": 238,
+    "time": 237,
+    "timeDay": 116,
+    "timeWeek": 196,
+    "timeMonth": 187,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 6
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://parent.cyberdive.co/mental-Health-check",
     "icon": "https://icons.duckduckgo.com/ip3/parent.cyberdive.co.ico",
     "slug": "landing-page-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 704,
-    "timeWeek": 282,
-    "timeMonth": 312,
-    "timeYear": 831,
+    "time": 826,
+    "timeDay": 421,
+    "timeWeek": 264,
+    "timeMonth": 307,
+    "timeYear": 826,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 5
     }
   }
 ]
