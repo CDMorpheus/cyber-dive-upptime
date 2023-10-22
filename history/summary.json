@@ -4,19 +4,19 @@
     "url": "https://www.cyberdive.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyberdive.co.ico",
     "slug": "main-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 318,
-    "timeWeek": 246,
-    "timeMonth": 232,
+    "timeDay": 355,
+    "timeWeek": 254,
+    "timeMonth": 236,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2023-10-22": 0
+      "2023-10-22": 7
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 892,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2023-10-22": 647,
+      "2023-10-22": 654,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
