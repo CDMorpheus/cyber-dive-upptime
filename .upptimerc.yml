@@ -7,16 +7,16 @@ sites:
     url: https://www.cyberdive.co
   - name: App Login
     url: https://app.cyberdive.co
-  - name: Landing Page 1
+  - name: Landing Page
     url: https://parenting.cyberdive.co/revolutionary
-  - name: Landing Page 2
-    url: https://parent.cyberdive.co/mental-Health-check
+  - name: Company Blog
+    url: https://blog.cyberdive.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /cyber-dive-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Cyber Dive Upptime Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
