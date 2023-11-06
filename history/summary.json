@@ -4,18 +4,20 @@
     "url": "https://www.cyberdive.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyberdive.co.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 311,
-    "timeWeek": 309,
-    "timeMonth": 257,
-    "timeYear": 244,
-    "dailyMinutesDown": {}
+    "time": 243,
+    "timeDay": 253,
+    "timeWeek": 299,
+    "timeMonth": 256,
+    "timeYear": 243,
+    "dailyMinutesDown": {
+      "2023-11-06": 0
+    }
   },
   {
     "name": "App Login",
