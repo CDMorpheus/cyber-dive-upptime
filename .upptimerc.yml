@@ -1,5 +1,5 @@
 # Change these first
-owner: dqjackso # Your GitHub organization or username, where this repository lives
+owner: CDMorpheus # Your GitHub organization or username, where this repository lives
 repo: cyber-dive-upptime # The name of this repository
 
 sites:
@@ -23,7 +23,7 @@ status-website:
   introMessage: This status page tracks the real-time up time for the main Cyber Dive company facing assets.
   navbar:
     - title: Status
-      href: https://dqjackso.github.io/cyber-dive-upptime/
+      href: https://CDMorpheus.github.io/cyber-dive-upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
