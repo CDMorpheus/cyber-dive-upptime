@@ -7,8 +7,10 @@ sites:
     url: https://www.cyberdive.co
   - name: App Login
     url: https://app.cyberdive.co
-  - name: Landing Page
-    url: https://parenting.cyberdive.co/revolutionary
+  - name: Parenting - Dive vs Bark Page 
+    url: https://parenting.cyberdive.co/cyber-dive-vs-bark
+  - name: Parenting - Dive vs Pinwheel Page 
+    url: https://parenting.cyberdive.co/aqua-one-vs-pinwheel
   - name: Company Blog
     url: https://blog.cyberdive.co/
 
