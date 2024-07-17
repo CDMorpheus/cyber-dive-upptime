@@ -58,26 +58,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Parenting - Dive vs Pinwheel Page",
-    "url": "https://parenting.cyberdive.co/aqua-one-vs-pinwheel",
-    "icon": "https://icons.duckduckgo.com/ip3/parenting.cyberdive.co.ico",
-    "slug": "parenting-dive-vs-pinwheel-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 401,
-    "timeWeek": 500,
-    "timeMonth": 395,
-    "timeYear": 127,
-    "dailyMinutesDown": {
-      "2024-07-17": 9
-    }
-  },
-  {
     "name": "Company Blog",
     "url": "https://blog.cyberdive.co/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.cyberdive.co.ico",
