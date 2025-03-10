@@ -49,18 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/parenting.cyberdive.co.ico",
     "slug": "parenting-dive-vs-bark-page",
     "status": "down",
-    "uptime": "70.54%",
+    "uptime": "70.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "62.96%",
+    "uptimeYear": "62.78%",
     "time": 269,
     "timeDay": 211,
     "timeWeek": 171,
     "timeMonth": 204,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-03-10": 41,
+      "2025-03-10": 959,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -204,17 +204,19 @@
     "url": "https://blog.cyberdive.co/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.cyberdive.co.ico",
     "slug": "company-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 190,
-    "timeWeek": 222,
-    "timeMonth": 272,
+    "timeDay": 279,
+    "timeWeek": 240,
+    "timeMonth": 276,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-10": 0
+    }
   }
 ]
