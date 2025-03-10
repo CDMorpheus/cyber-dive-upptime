@@ -10,7 +10,7 @@ sites:
   - name: Parenting - Dive vs Bark Page 
     url: https://parenting.cyberdive.co/cyber-dive-vs-bark
   - name: Company Blog
-    url: https://blog.cyberdive.co/
+    url: https://www.cyberdive.co/blog
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
