@@ -7,8 +7,6 @@ sites:
     url: https://www.cyberdive.co
   - name: App Login
     url: https://app.cyberdive.co
-  - name: Parenting - Dive vs Bark Page 
-    url: https://parenting.cyberdive.co/cyber-dive-vs-bark
   - name: Company Blog
     url: https://www.cyberdive.co/blog
 
