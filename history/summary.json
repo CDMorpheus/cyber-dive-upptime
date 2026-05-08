@@ -45,9 +45,9 @@
     "slug": "company-blog",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 139,
     "timeDay": 255,
@@ -55,6 +55,7 @@
     "timeMonth": 108,
     "timeYear": 120,
     "dailyMinutesDown": {
+      "2026-05-08": 44,
       "2025-12-05": 28
     }
   }
