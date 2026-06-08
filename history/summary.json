@@ -4,21 +4,21 @@
     "url": "https://www.cyberdive.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyberdive.co.ico",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 341,
-    "timeDay": 650,
-    "timeWeek": 449,
-    "timeMonth": 529,
-    "timeYear": 346,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "80.79%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.93%",
+    "time": 340,
+    "timeDay": 632,
+    "timeWeek": 470,
+    "timeMonth": 532,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2025-06-10": 83,
       "2025-12-05": 28,
-      "2026-06-08": 10
+      "2026-06-08": 277
     }
   },
   {
@@ -44,21 +44,21 @@
     "url": "https://www.cyberdive.co/blog",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyberdive.co.ico",
     "slug": "company-blog",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "81.29%",
+    "uptimeWeek": "97.33%",
     "uptimeMonth": "97.87%",
-    "uptimeYear": "99.75%",
-    "time": 155,
-    "timeDay": 489,
-    "timeWeek": 392,
-    "timeMonth": 455,
-    "timeYear": 148,
+    "uptimeYear": "99.70%",
+    "time": 156,
+    "timeDay": 512,
+    "timeWeek": 409,
+    "timeMonth": 457,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2026-05-08": 1276,
-      "2026-06-08": 2
+      "2026-06-08": 269
     }
   }
 ]
