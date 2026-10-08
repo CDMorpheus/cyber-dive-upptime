@@ -4,21 +4,22 @@
     "url": "https://www.cyberdive.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyberdive.co.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 373,
-    "timeDay": 506,
-    "timeWeek": 457,
-    "timeMonth": 469,
-    "timeYear": 381,
+    "time": 372,
+    "timeDay": 291,
+    "timeWeek": 409,
+    "timeMonth": 457,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2026-06-08": 277,
-      "2026-06-10": 236
+      "2026-06-10": 236,
+      "2026-10-08": 1
     }
   },
   {
@@ -26,41 +27,44 @@
     "url": "https://app.cyberdive.co",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyberdive.co.ico",
     "slug": "app-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 279,
-    "timeWeek": 255,
-    "timeMonth": 261,
-    "timeYear": 244,
-    "dailyMinutesDown": {}
+    "timeDay": 193,
+    "timeWeek": 236,
+    "timeMonth": 256,
+    "timeYear": 243,
+    "dailyMinutesDown": {
+      "2026-10-08": 0
+    }
   },
   {
     "name": "Company Blog",
     "url": "https://www.cyberdive.co/blog",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyberdive.co.ico",
     "slug": "company-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 217,
-    "timeDay": 369,
-    "timeWeek": 425,
-    "timeMonth": 438,
-    "timeYear": 248,
+    "timeDay": 207,
+    "timeWeek": 378,
+    "timeMonth": 425,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2026-05-08": 1276,
       "2026-06-08": 269,
       "2026-06-10": 229,
-      "2026-07-28": 8
+      "2026-07-28": 8,
+      "2026-10-08": 0
     }
   }
 ]
